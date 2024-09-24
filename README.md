@@ -1,13 +1,5 @@
 👋 Opa, eu sou o Rafael Leles!
 
-Desenvolvedor Fullstack | Entusiasta de novas tecnologias | Apaixonado por inovação e soluções criativas 🚀
-
-Frontend: React, Next.js, Angular, HTML, CSS, JavaScript
-Backend: Node.js, Express, C#, ASP.NET, Entity Framework
-Banco de Dados: PostgreSQL, MySQL, MongoDB
-DevOps: Docker, Kubernetes, CI/CD (GitHub Actions, Jenkins)
-Outras: TypeScript, Visual Studio Code, Rider, Git
-
 
 <!--
 **rafaeleles/rafaeleles** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
