@@ -1,11 +1,11 @@
 👋 Opa, eu sou o Rafael Leles!                                                                                                                                 
-![Português](https://img.shields.io/badge/Português-🇧🇷-green?style=for-the-badge)
-![English](https://img.shields.io/badge/English-🇺🇸-blue?style=for-the-badge)
-![Deutsch](https://img.shields.io/badge/Deutsch-🇩🇪-black?style=for-the-badge)
 
-
-
-
+[![TypeScript](https://img.shields.io/badge/-TypeScript-3178C6?style=for-the-badge&logo=typescript&logoColor=white)](#typescript)
+[![JavaScript](https://img.shields.io/badge/-JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=white)](#javascript)
+[![CSS](https://img.shields.io/badge/-CSS-1572B6?style=for-the-badge&logo=css3&logoColor=white)](#css)
+[![HTML](https://img.shields.io/badge/-HTML-E34F26?style=for-the-badge&logo=html5&logoColor=white)](#html)
+[![Kotlin](https://img.shields.io/badge/-Kotlin-7F52FF?style=for-the-badge&logo=kotlin&logoColor=white)](#kotlin)
+[![C#](https://img.shields.io/badge/-C%23-239120?style=for-the-badge&logo=csharp&logoColor=white)](#csharp)
 
 
 ---
