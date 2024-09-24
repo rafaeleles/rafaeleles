@@ -1,6 +1,8 @@
-👋 Opa, eu sou o Rafael Leles!                                                                                                                                          [![Português](https://img.shields.io/badge/Lang-Portuguese-green?style=for-the-badge&logo=google-translate)](#português)
-[![English](https://img.shields.io/badge/Lang-English-blue?style=for-the-badge&logo=google-translate)](#english)
-[![Deutsch](https://img.shields.io/badge/Lang-German-black?style=for-the-badge&logo=google-translate)](#deutsch)
+👋 Opa, eu sou o Rafael Leles!                                                                                                                                 
+![Português](https://img.shields.io/badge/Português-🇧🇷-green?style=for-the-badge)
+![English](https://img.shields.io/badge/English-🇺🇸-blue?style=for-the-badge)
+![Deutsch](https://img.shields.io/badge/Deutsch-🇩🇪-black?style=for-the-badge)
+
 
 
 
