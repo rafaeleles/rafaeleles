@@ -1,5 +1,26 @@
 👋 Opa, eu sou o Rafael Leles!
 
+# 🌍 Escolha seu idioma | Choose your language | Wählen Sie Ihre Sprache
+
+- [Português](#português)
+- [English](#english)
+- [Deutsch](#deutsch)
+
+---
+
+## Português
+
+Bem-vindo ao meu perfil GitHub! Aqui você encontrará projetos desenvolvidos com várias tecnologias...
+
+## English
+
+Welcome to my GitHub profile! Here you will find projects developed with various technologies...
+
+## Deutsch
+
+Willkommen auf meinem GitHub-Profil! Hier finden Sie Projekte, die mit verschiedenen Technologien entwickelt wurden...
+
+
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=rafaeleles&layout=compact&theme=transparent)
 
 <!--
