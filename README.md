@@ -1,10 +1,8 @@
-👋 Opa, eu sou o Rafael Leles!
+👋 Opa, eu sou o Rafael Leles!                                                                                                                                          # 🌍 🇧🇷 [Português](#português) 🇺🇸 [English](#english) 🇩🇪 [Deutsch](#deutsch)
 
-# 🌍 Escolha seu idioma | Choose your language | Wählen Sie Ihre Sprache
 
-- [Português](#português)
-- [English](#english)
-- [Deutsch](#deutsch)
+
+
 
 ---
 
