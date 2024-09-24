@@ -1,8 +1,13 @@
 <div align="center">
-  <h2>👋 Opa, eu sou o Rafael Leles!</h2>
+  <h2>👋 Ich bin Rafael Leles!</h2>
   <h3>Web and Mobile FullStack Developer</h3>
-  <img src="https://github.com/rafaeleles.png" alt="Rafael Leles" width="150" style="border-radius: 500px;" />
+  <img src="https://github.com/rafaeleles.png" alt="Rafael Leles" width="150" style="border-radius: 500px;" />=
 </div>
+
+
+ Hi, I’m **Rafael**, a passionate **Web and Mobile Developer** from **Brazil**. I graduated from **Colégio Cotemig** and I'm currently pursuing a degree in **Systems Analysis and Development** at **PUC Minas**. I have hands-on experience in both **Backend** and **Frontend development**, utilizing a diverse range of technologies to deliver complete and efficient solutions. 
+ 
+ Even as a **native Brazilian**, I am also **multilingual**, fluent in **Portuguese** and **English**, and currently working on achieving **fluency in German**. This linguistic ability allows me to collaborate effectively in diverse teams and communicate with a broader audience.
 
 ### Frontend Frameworks:
 
