@@ -1,7 +1,7 @@
 <div align="center">
   <h2>👋 Ich bin Rafael Leles!</h2>
   <h3>Web and Mobile FullStack Developer</h3>
-  <img src="https://github.com/rafaeleles.png" alt="Rafael Leles" width="150" style="border-radius: 500px;" />=
+  <img src="https://github.com/rafaeleles.png" alt="Rafael Leles" width="150" style="border-radius: 500px;" />
 </div>
 
 
